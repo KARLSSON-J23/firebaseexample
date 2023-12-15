@@ -1,6 +1,6 @@
 # 在Android Studio 連接Firebase即時資料庫
 
-### 1.打開Tools 並點選Firebase選項
+### 打開Tools 並點選Firebase選項
 <img src="https://i.imgur.com/7SOmqFv.png" width="80%">
 ####點選要的Realtime Database
 <img src="https://i.imgur.com/Cx3j8uP.png" width="80%">
@@ -102,7 +102,7 @@ myRef.addValueEventListener(new ValueEventListener() {
 });
 
 ```
-完整JAVA程式碼(將上面放入中)
+完整JAVA程式碼(將上面程式碼放入以下MainActivity中)
 ```java
     package com.example.firebaseexample;
 
