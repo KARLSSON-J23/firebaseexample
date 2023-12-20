@@ -9,48 +9,48 @@
 
 #### 選擇要連接的專案
 
-<img src="https://i.imgur.com/LlYKwel.png" widthe="80%">
+<img src="https://i.imgur.com/LlYKwel.png" width="80%">
 
 #### 接著系統會跳出google帳號下所有的專案，這邊以新增專案為例
-<img src="https://i.imgur.com/YLA0kOx.png" widthe="80%">
+<img src="https://i.imgur.com/YLA0kOx.png" width="80%">
 
-<img src="https://i.imgur.com/nJXdK35.png" widthe="80%">
+<img src="https://i.imgur.com/nJXdK35.png" width="80%">
 
-<img src="https://i.imgur.com/JcPTtQs.png" widthe="80%">
+<img src="https://i.imgur.com/JcPTtQs.png" width="80%">
 
-<img src="https://i.imgur.com/c4liV6l.png" widthe="80%">
+<img src="https://i.imgur.com/c4liV6l.png" width="80%">
 
-<img src="https://i.imgur.com/tV1q0vT.png" widthe="80%">
+<img src="https://i.imgur.com/tV1q0vT.png" width="80%">
 
-<img src="https://i.imgur.com/ctTe8PU.png" widthe="80%">
+<img src="https://i.imgur.com/ctTe8PU.png" width="80%">
 
-<img src="https://i.imgur.com/TNKLaHV.png" widthe="80%">
+<img src="https://i.imgur.com/TNKLaHV.png" width="80%">
 
 #### 到這邊代表已經連接成功
 
 ### 加入SDK
-<img src="https://i.imgur.com/TiufvmI.png" widthe="80%">
+<img src="https://i.imgur.com/TiufvmI.png" width="80%">
 
 ### 選擇專案
-<img src="https://i.imgur.com/792keY9.png" widthe="80%">
+<img src="https://i.imgur.com/792keY9.png" width="80%">
 
 ### 點選Realtime Database
-<img src="https://i.imgur.com/Rn29QPi.png" widthe="80%">
+<img src="https://i.imgur.com/Rn29QPi.png" width="50%">
 
-<img src="https://i.imgur.com/hdzqPJK.png" widthe="80%">
+<img src="https://i.imgur.com/hdzqPJK.png" width="80%">
 
-<img src="https://i.imgur.com/64F4Bd9.png" widthe="80%">
+<img src="https://i.imgur.com/64F4Bd9.png" width="80%">
 
 ### 注意 必須使用測試模式
-<img src="https://i.imgur.com/S3E0QVY.png" widthe="80%">
+<img src="https://i.imgur.com/S3E0QVY.png" width="80%">
 
-<img src="https://i.imgur.com/x3HSYwL.png" widthe="80%">
+<img src="https://i.imgur.com/x3HSYwL.png" width="80%">
 
 ### 恭喜 到這邊即時資料庫就已經設定完成，接下來開始撰寫程式碼
 
 前端介面
 
-<img src="https://i.imgur.com/AggL6d5.png" widthe="80%">
+<img src="https://i.imgur.com/AggL6d5.png" width="40%">
 
 UI XML
 
@@ -165,7 +165,8 @@ myRef.addValueEventListener(new ValueEventListener() {
 ### 執行
 
 成功寫入你好，並讀取後顯示至螢幕上
-<img src="https://i.imgur.com/6B7yYaq.png" widthe="80%">
 
-<img src="https://i.imgur.com/PVkN94j.png" widthe="10%">
+<img src="https://i.imgur.com/6B7yYaq.png" width="50%">
+
+<img src="https://i.imgur.com/PVkN94j.png" width="40%">
 
