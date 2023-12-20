@@ -166,7 +166,7 @@ myRef.addValueEventListener(new ValueEventListener() {
 
 成功寫入你好，並讀取後顯示至螢幕上
 
-<img src="https://i.imgur.com/6B7yYaq.png" width="50%">
+<img src="https://i.imgur.com/6B7yYaq.png" width="80%">
 
-<img src="https://i.imgur.com/PVkN94j.png" width="40%">
+<img src="https://i.imgur.com/PVkN94j.png" width="35%">
 
