@@ -2,16 +2,13 @@
 
 ### 打開Tools 並點選Firebase選項
 <img src="https://i.imgur.com/7SOmqFv.png" width="80%">
-####點選要的Realtime Database
-<img src="https://i.imgur.com/Cx3j8uP.png" width="80%">
+####點選Realtime Database
+<img src="https://i.imgur.com/S5ASPQc.png" width="80%">
 #### 系統會跳出每個步驟，點選connect to Firebase
-<img src="https://i.imgur.com/icOHChm.png" width="80%">
+<img src="https://i.imgur.com/kCjg34j.png" width="80%">
 
-#### 選擇要連接的專案
+#### 接著瀏覽器會跳出firebase控制台，登入後點選已有專案或是新增專案
 
-<img src="https://i.imgur.com/LlYKwel.png" width="80%">
-
-#### 接著系統會跳出google帳號下所有的專案，這邊以新增專案為例
 <img src="https://i.imgur.com/YLA0kOx.png" width="80%">
 
 <img src="https://i.imgur.com/nJXdK35.png" width="80%">
@@ -26,7 +23,15 @@
 
 <img src="https://i.imgur.com/TNKLaHV.png" width="80%">
 
-#### 到這邊代表已經連接成功
+#### 到這邊代表已經連接成功，接著第二步
+
+<img src="https://i.imgur.com/KFxO4A8.png" width="80%">
+
+
+#### 選擇要連接的專案
+
+<img src="https://i.imgur.com/LlYKwel.png" width="80%">
+
 
 ### 加入SDK
 <img src="https://i.imgur.com/TiufvmI.png" width="80%">
